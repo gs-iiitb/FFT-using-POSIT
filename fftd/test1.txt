@@ -1,0 +1,24 @@
+fftsize=   1  logerr=-99.0
+fftsize=   2  logerr=-16.1
+fftsize=   4  logerr=-16.4
+fftsize=   8  logerr=-16.0
+fftsize=  16  logerr=-15.9
+fftsize=  32  logerr=-15.8
+fftsize=  64  logerr=-15.7
+fftsize= 128  logerr=-15.6
+fftsize= 256  logerr=-15.6
+fftsize= 512  logerr=-15.5
+fftsize=1024  logerr=-15.5
+fftsize=2048  logerr=-15.5
+fftsize=4096  logerr=-15.5
+fftsize=8192  logerr=-15.4
+fftsize=16384  logerr=-15.4
+fftsize=32768  logerr=-15.4
+fftsize=65536  logerr=-15.4
+fftsize=131072  logerr=-15.4
+fftsize=262144  logerr=-15.4
+fftsize=524288  logerr=-15.3
+fftsize=1048576  logerr=-15.3
+
+Max log err = -15.3
+Test passed

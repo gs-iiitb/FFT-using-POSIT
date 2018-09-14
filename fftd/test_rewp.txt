@@ -1,0 +1,216 @@
+fftsize=   1  logerr=-99.0
+fftsize=   2  logerr=-16.1
+fftsize=   4  logerr=-16.0
+fftsize=   8  logerr=-15.6
+fftsize=  16  logerr=-15.1
+fftsize=  32  logerr=-14.9
+fftsize=  64  logerr=-14.6
+fftsize= 128  logerr=-14.4
+fftsize= 256  logerr=-14.1
+fftsize= 512  logerr=-13.8
+fftsize=1024  logerr=-13.5
+fftsize=2048  logerr=-13.2
+fftsize=4096  logerr=-13.0
+fftsize=   0  logerr=-99.0
+fftsize=   1  logerr=-99.0
+fftsize=   2  logerr=-16.4
+fftsize=   3  logerr=-15.2
+fftsize=   4  logerr=-15.6
+fftsize=   5  logerr=-15.7
+fftsize=   6  logerr=-15.4
+fftsize=   7  logerr=-15.1
+fftsize=   8  logerr=-15.5
+fftsize=   9  logerr=-15.1
+fftsize=  10  logerr=-15.1
+fftsize=  11  logerr=-14.8
+fftsize=  12  logerr=-14.8
+fftsize=  13  logerr=-14.6
+fftsize=  14  logerr=-14.8
+fftsize=  15  logerr=-14.9
+fftsize=  16  logerr=-15.2
+fftsize=  17  logerr=-14.7
+fftsize=  18  logerr=-14.9
+fftsize=  19  logerr=-14.7
+fftsize=  20  logerr=-14.8
+fftsize=  21  logerr=-14.7
+fftsize=  22  logerr=-14.7
+fftsize=  23  logerr=-14.7
+fftsize=  24  logerr=-14.7
+fftsize=  25  logerr=-14.5
+fftsize=  26  logerr=-14.6
+fftsize=  27  logerr=-14.5
+fftsize=  28  logerr=-14.6
+fftsize=  29  logerr=-14.6
+fftsize=   1  logerr=-99.0
+fftsize=   2  logerr=-99.2
+fftsize=   3  logerr=-15.5
+fftsize=   4  logerr=-15.9
+fftsize=   5  logerr=-15.3
+fftsize=   6  logerr=-15.3
+fftsize=   7  logerr=-15.1
+fftsize=   8  logerr=-15.6
+fftsize=   9  logerr=-15.3
+fftsize=  10  logerr=-15.2
+fftsize=  11  logerr=-14.9
+fftsize=  12  logerr=-14.8
+fftsize=  13  logerr=-14.5
+fftsize=  14  logerr=-14.8
+fftsize=  15  logerr=-15.0
+fftsize=  16  logerr=-15.1
+fftsize=  17  logerr=-14.8
+fftsize=  19  logerr=-14.7
+fftsize=  20  logerr=-14.8
+fftsize=  22  logerr=-14.6
+fftsize=  23  logerr=-14.7
+fftsize=  25  logerr=-14.6
+fftsize=  27  logerr=-14.6
+fftsize=  29  logerr=-14.5
+fftsize=  31  logerr=-14.6
+fftsize=  33  logerr=-14.5
+fftsize=  36  logerr=-14.6
+fftsize=  39  logerr=-14.5
+fftsize=  42  logerr=-14.6
+fftsize=  45  logerr=-14.4
+fftsize=  48  logerr=-14.5
+fftsize=  52  logerr=-14.4
+fftsize=  56  logerr=-14.4
+fftsize=  60  logerr=-14.4
+fftsize=  65  logerr=-14.5
+fftsize=  70  logerr=-14.4
+fftsize=  75  logerr=-14.3
+fftsize=  80  logerr=-14.4
+fftsize=  87  logerr=-14.2
+fftsize=  93  logerr=-14.3
+fftsize= 100  logerr=-14.2
+fftsize= 108  logerr=-14.2
+fftsize= 116  logerr=-14.2
+fftsize= 125  logerr=-14.2
+fftsize= 134  logerr=-14.1
+fftsize= 144  logerr=-14.1
+fftsize= 155  logerr=-14.1
+fftsize= 167  logerr=-14.0
+fftsize= 180  logerr=-14.0
+fftsize= 194  logerr=-14.0
+fftsize= 208  logerr=-14.0
+fftsize= 224  logerr=-14.0
+fftsize= 241  logerr=-13.9
+fftsize= 259  logerr=-13.9
+fftsize= 279  logerr=-13.9
+fftsize= 300  logerr=-13.9
+fftsize= 323  logerr=-13.9
+fftsize= 347  logerr=-13.8
+fftsize= 374  logerr=-13.8
+fftsize= 402  logerr=-13.8
+fftsize= 433  logerr=-13.8
+fftsize= 465  logerr=-13.7
+fftsize= 501  logerr=-13.7
+fftsize= 539  logerr=-13.7
+fftsize= 580  logerr=-13.7
+fftsize= 624  logerr=-13.7
+fftsize= 671  logerr=-13.6
+fftsize= 722  logerr=-13.6
+fftsize= 777  logerr=-13.6
+fftsize= 836  logerr=-13.5
+fftsize= 899  logerr=-13.5
+fftsize= 967  logerr=-13.5
+fftsize=1041  logerr=-13.5
+fftsize=1120  logerr=-13.5
+fftsize=1205  logerr=-13.4
+fftsize=1296  logerr=-13.4
+fftsize=1394  logerr=-13.3
+fftsize=1500  logerr=-13.3
+convsize=   1  logerr=-99.0
+convsize=   2  logerr=-15.7
+convsize=   4  logerr=-15.5
+convsize=   8  logerr=-15.4
+convsize=  16  logerr=-15.1
+convsize=  32  logerr=-14.9
+convsize=  64  logerr=-14.6
+convsize= 128  logerr=-14.4
+convsize= 256  logerr=-14.1
+convsize= 512  logerr=-13.9
+convsize=1024  logerr=-13.6
+convsize=2048  logerr=-13.3
+convsize=4096  logerr=-13.0
+convsize=   1  logerr=-99.0
+convsize=   2  logerr=-15.6
+convsize=   3  logerr=-15.2
+convsize=   4  logerr=-15.8
+convsize=   5  logerr=-15.2
+convsize=   6  logerr=-15.2
+convsize=   7  logerr=-14.6
+convsize=   8  logerr=-15.5
+convsize=   9  logerr=-14.9
+convsize=  10  logerr=-14.9
+convsize=  11  logerr=-14.8
+convsize=  12  logerr=-14.7
+convsize=  13  logerr=-14.6
+convsize=  14  logerr=-14.9
+convsize=  15  logerr=-14.7
+convsize=  16  logerr=-15.2
+convsize=  17  logerr=-14.7
+convsize=  19  logerr=-14.6
+convsize=  20  logerr=-14.6
+convsize=  22  logerr=-14.7
+convsize=  23  logerr=-14.6
+convsize=  25  logerr=-14.4
+convsize=  27  logerr=-14.5
+convsize=  29  logerr=-14.4
+convsize=  31  logerr=-14.6
+convsize=  33  logerr=-14.5
+convsize=  36  logerr=-14.4
+convsize=  39  logerr=-14.3
+convsize=  42  logerr=-14.5
+convsize=  45  logerr=-14.3
+convsize=  48  logerr=-14.3
+convsize=  52  logerr=-14.3
+convsize=  56  logerr=-14.3
+convsize=  60  logerr=-14.4
+convsize=  65  logerr=-14.4
+convsize=  70  logerr=-14.3
+convsize=  75  logerr=-14.2
+convsize=  80  logerr=-14.3
+convsize=  87  logerr=-14.1
+convsize=  93  logerr=-14.2
+convsize= 100  logerr=-14.1
+convsize= 108  logerr=-14.1
+convsize= 116  logerr=-14.1
+convsize= 125  logerr=-14.0
+convsize= 134  logerr=-14.0
+convsize= 144  logerr=-14.0
+convsize= 155  logerr=-14.0
+convsize= 167  logerr=-14.0
+convsize= 180  logerr=-13.9
+convsize= 194  logerr=-13.9
+convsize= 208  logerr=-13.9
+convsize= 224  logerr=-13.9
+convsize= 241  logerr=-13.9
+convsize= 259  logerr=-13.9
+convsize= 279  logerr=-13.9
+convsize= 300  logerr=-13.8
+convsize= 323  logerr=-13.9
+convsize= 347  logerr=-13.8
+convsize= 374  logerr=-13.8
+convsize= 402  logerr=-13.8
+convsize= 433  logerr=-13.7
+convsize= 465  logerr=-13.7
+convsize= 501  logerr=-13.7
+convsize= 539  logerr=-13.7
+convsize= 580  logerr=-13.6
+convsize= 624  logerr=-13.7
+convsize= 671  logerr=-13.6
+convsize= 722  logerr=-13.5
+convsize= 777  logerr=-13.5
+convsize= 836  logerr=-13.5
+convsize= 899  logerr=-13.5
+convsize= 967  logerr=-13.5
+convsize=1041  logerr=-13.5
+convsize=1120  logerr=-13.4
+convsize=1205  logerr=-13.4
+convsize=1296  logerr=-13.4
+convsize=1394  logerr=-13.4
+convsize=1500  logerr=-13.3
+
+Max log err = -13.0
+Test passed
+
