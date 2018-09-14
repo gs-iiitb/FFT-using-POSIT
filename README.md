@@ -16,11 +16,12 @@ These are the code for the fft using posit.Just run the make command to compile 
 3) double precision code
 
 
-1) For single precision code I am attaching the whole file included with the code and the results drawn from the same with test1.txt and the folder name containing the whole code is "fft_single".
+
+1. For single precision code I am attaching the whole file included with the code and the results drawn from the same with test1.txt and the folder name containing the whole code is "fft_single".
 
 
-2)In the second case I have done some possible tweeks to improve the logerr got from the previous case.The whole folder conatining the codes and results can be founds with the name "fft_refsingle" and the result with name "test_f2d.txt" 
+2.In the second case I have done some possible tweeks to improve the logerr got from the previous case.The whole folder conatining the codes and results can be founds with the name "fft_refsingle" and the result with name "test_f2d.txt" 
 
 
-3) This is the double precision original source code with the folder name as "fftd" containing the source code and the results with the name "test1.txt" 
+3.This is the double precision original source code with the folder name as "fftd" containing the source code and the results with the name "test1.txt" 
 
